@@ -1,0 +1,168 @@
+.main {
+  padding: 5px 10px;
+  margin-top: 0px;
+}
+
+.enroll-button-container {
+  margin: 0;
+  padding: 0;
+}
+
+.studentheader {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 8px 16px;
+  background-color: #1a4bbb;
+  border-radius: 6px;
+  margin-bottom: 0px;
+  color: white;
+}
+
+.headertitle {
+  font-size: 18px;
+  font-weight: bold;
+  color: white;
+}
+
+.headerright {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.welcome {
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.home,
+.logout {
+  padding: 6px 12px;
+  background-color: #2d6cdf;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 13px;
+}
+
+.logout {
+  background-color: rgb(180, 40, 40);
+}
+
+.logout:hover {
+  background-color: red;
+}
+
+.studentbtn {
+  padding: 8px 16px;
+  background-color: #2d6cdf;
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 14px;
+}
+
+.studentbtn:hover {
+  background-color: #1a4bbb;
+}
+
+.input {
+  width: 240px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin-bottom: 8px;
+  font-size: 14px;
+}
+
+.content {
+  margin-top: 0px;
+}
+
+.studentbox {
+  margin-top: 0px;
+  border: 1px solid #ddd;
+  background: white;
+  border-radius: 6px;
+  padding: 10px;
+  width: 60%;
+  max-height: 260px;
+  overflow-y: auto;
+}
+
+.studenttable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.studenttable th,
+.studenttable td {
+  border: 1px solid #ddd;
+  padding: 6px 8px;
+  text-align: left;
+  font-size: 14px;
+}
+
+.studenttable th,
+.coursetable th,
+table th {
+  background-color: #CED6E0;
+  font-weight: bold;
+  padding: 6px;
+}
+
+.coursetable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.coursetable td,
+.coursetable th {
+  border: 1px solid #ddd;
+  padding: 6px 8px;
+  text-align: left;
+  font-size: 14px;
+}
+
+.fullcourserow td {
+  background-color: #ffb3b3;
+  color: #a70000;
+  font-weight: bold;
+}
+
+.enrolledrow {
+  background-color: #d4f8d4;
+  font-weight: bold;
+}
+
+button:disabled {
+  background: gray;
+  cursor: not-allowed;
+}
+
+.below-navbar-btn {
+  display: flex;
+  justify-content: flex-end;
+  margin-top: 15px;
+  padding-right: 20px;
+}
+
+.create-course-btn {
+  background-color: #1a73e8;
+  color: white;
+  padding: 10px 18px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+  font-size: 16px;
+  font-weight: bold;
+}
+
+.create-course-btn:hover {
+  background-color: #155bbb;
+}

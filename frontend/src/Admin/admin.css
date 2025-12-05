@@ -1,0 +1,178 @@
+.admin-container {
+  display: flex;
+}
+
+.admin-header {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 50px;
+  background: #1a4bbb;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 16px;
+  z-index: 1000;
+}
+
+.admin-title {
+  font-size: 18px;
+  font-weight: 600;
+}
+
+.admin-right {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.admin-btn {
+  background: #2d6cdf;
+  color: white;
+  border: none;
+  padding: 6px 12px;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 600;
+  font-size: 13px;
+}
+
+.admin-btn:hover {
+  background: #1a4bbb;
+}
+
+.logout {
+  background: #d9534f;
+  color: white;
+  padding: 6px 12px;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 600;
+}
+
+.logout:hover {
+  background: #b53834;
+}
+
+.sidebar {
+  width: 220px;
+  background: #124B84;
+  color: white;
+  padding: 15px;
+  margin-top: 50px;
+  height: calc(100vh - 50px);
+  overflow-y: auto;
+}
+
+.sidebar button {
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 8px;
+  color: black;
+  border: none;
+  cursor: pointer;
+  border-radius: 4px;
+  font-weight: 600;
+  font-size: 14px;
+}
+
+.sidebar button:hover {
+  background: #666;
+}
+
+.content {
+  flex: 1;
+  padding: 70px 20px 20px 20px;
+}
+
+.course {
+  padding: 10px 0;
+}
+
+.input {
+  width: 280px;
+  padding: 8px;
+  margin-bottom: 8px;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+}
+
+.coursesearch {
+  padding: 8px 16px;
+  background: rgb(46, 99, 184);
+  color: white;
+  border: none;
+  border-radius: 4px;
+  cursor: pointer;
+  font-weight: 600;
+  margin-top: 5px;
+}
+
+.coursesearch:hover {
+  background: #666;
+}
+
+.coursebox {
+  max-height: 250px;
+  overflow-y: auto;
+  border: 1px solid #ccc;
+  padding: 8px;
+  border-radius: 4px;
+  background: white;
+  margin-top: 15px;
+}
+
+.scroll-container {
+  max-height: 300px;
+  overflow-y: auto;
+  overflow-x: hidden;
+  border: 1px solid #ccc;
+  padding: 0;
+  margin-top: 10px;
+  border-radius: 6px;
+}
+
+.coursetable {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.coursetable th,
+.coursetable td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+
+.coursetable th {
+  background-color: #ced6e0;
+  font-weight: bold;
+}
+
+.coursetable thead th {
+  position: sticky;
+  top: 0;
+  background: #ced6e0;
+  z-index: 5;
+}
+
+.coursetable tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+.coursetable tr:hover {
+  background-color: #f1f1f1;
+}
+
+.dashboard-two-col {
+  display: flex;
+  gap: 16px;
+}
+
+.dashboard-two-col .course-table-box {
+  width: 50%;
+}
+
