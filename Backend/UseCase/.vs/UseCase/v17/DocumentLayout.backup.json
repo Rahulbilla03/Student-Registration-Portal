@@ -1,0 +1,493 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\controllers\\coursecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\model\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\model\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\model\\topicprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\model\\topicprogress.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\model\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\model\\topic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\model\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\model\\enrollment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\model\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\model\\admin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\services\\interfaces\\istudentinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\services\\interfaces\\istudentinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\services\\interfaces\\icourseinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\services\\interfaces\\icourseinterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\services\\interfaces\\iadmininterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\services\\interfaces\\iadmininterface.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\services\\studentimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\services\\studentimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\services\\courseimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\services\\courseimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\services\\adminimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\services\\adminimplementation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\data\\config\\admintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\data\\config\\admintable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\data\\config\\topicprogresstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\data\\config\\topicprogresstable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\data\\config\\topictable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\data\\config\\topictable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\data\\config\\coursetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\data\\config\\coursetable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\data\\config\\studenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\data\\config\\studenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|c:\\users\\rahulbilla\\source\\repos\\usecase\\usecase\\data\\config\\enrollmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{982C205F-F311-4274-9269-6B4CC90EF24D}|UseCase\\UseCase.csproj|solutionrelative:usecase\\data\\config\\enrollmenttable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase.Tests\\Controllers\\StudentTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UseCase.Tests\\Controllers\\StudentTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase.Tests\\Controllers\\CourseTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UseCase.Tests\\Controllers\\CourseTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase.Tests\\Controllers\\AdminTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UseCase.Tests\\Controllers\\AdminTests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase.Tests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:UseCase.Tests\\UnitTest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 16,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "StudentTests.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase.Tests\\Controllers\\StudentTests.cs",
+              "RelativeDocumentMoniker": "UseCase.Tests\\Controllers\\StudentTests.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase.Tests\\Controllers\\StudentTests.cs",
+              "RelativeToolTip": "UseCase.Tests\\Controllers\\StudentTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T08:28:41.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "CourseTests.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase.Tests\\Controllers\\CourseTests.cs",
+              "RelativeDocumentMoniker": "UseCase.Tests\\Controllers\\CourseTests.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase.Tests\\Controllers\\CourseTests.cs",
+              "RelativeToolTip": "UseCase.Tests\\Controllers\\CourseTests.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAOgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T08:28:20.98Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AdminTests.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase.Tests\\Controllers\\AdminTests.cs",
+              "RelativeDocumentMoniker": "UseCase.Tests\\Controllers\\AdminTests.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase.Tests\\Controllers\\AdminTests.cs",
+              "RelativeToolTip": "UseCase.Tests\\Controllers\\AdminTests.cs",
+              "ViewState": "AgIAAHYAAAAAAAAAAAAwwNMAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T07:26:36.148Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "UseCase.Tests\\UnitTest1.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "UseCase.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T07:23:59.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "StudentImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Services\\StudentImplementation.cs",
+              "RelativeDocumentMoniker": "UseCase\\Services\\StudentImplementation.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Services\\StudentImplementation.cs",
+              "RelativeToolTip": "UseCase\\Services\\StudentImplementation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T07:15:12.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CourseImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Services\\CourseImplementation.cs",
+              "RelativeDocumentMoniker": "UseCase\\Services\\CourseImplementation.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Services\\CourseImplementation.cs",
+              "RelativeToolTip": "UseCase\\Services\\CourseImplementation.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwFcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T07:14:43.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminImplementation.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Services\\AdminImplementation.cs",
+              "RelativeDocumentMoniker": "UseCase\\Services\\AdminImplementation.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Services\\AdminImplementation.cs",
+              "RelativeToolTip": "UseCase\\Services\\AdminImplementation.cs",
+              "ViewState": "AgIAAKMAAAAAAAAAAAAcwDUAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T07:13:45.921Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IStudentInterface.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Services\\Interfaces\\IStudentInterface.cs",
+              "RelativeDocumentMoniker": "UseCase\\Services\\Interfaces\\IStudentInterface.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Services\\Interfaces\\IStudentInterface.cs",
+              "RelativeToolTip": "UseCase\\Services\\Interfaces\\IStudentInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T07:12:53.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ICourseInterface.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Services\\Interfaces\\ICourseInterface.cs",
+              "RelativeDocumentMoniker": "UseCase\\Services\\Interfaces\\ICourseInterface.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Services\\Interfaces\\ICourseInterface.cs",
+              "RelativeToolTip": "UseCase\\Services\\Interfaces\\ICourseInterface.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T07:12:37.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAdminInterface.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Services\\Interfaces\\IAdminInterface.cs",
+              "RelativeDocumentMoniker": "UseCase\\Services\\Interfaces\\IAdminInterface.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Services\\Interfaces\\IAdminInterface.cs",
+              "RelativeToolTip": "UseCase\\Services\\Interfaces\\IAdminInterface.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T07:12:12.915Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "TopicProgressTable.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Data\\Config\\TopicProgressTable.cs",
+              "RelativeDocumentMoniker": "UseCase\\Data\\Config\\TopicProgressTable.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Data\\Config\\TopicProgressTable.cs",
+              "RelativeToolTip": "UseCase\\Data\\Config\\TopicProgressTable.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswA4AAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T03:57:31.796Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "TopicTable.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Data\\Config\\TopicTable.cs",
+              "RelativeDocumentMoniker": "UseCase\\Data\\Config\\TopicTable.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Data\\Config\\TopicTable.cs",
+              "RelativeToolTip": "UseCase\\Data\\Config\\TopicTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T03:57:04.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Topic.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Model\\Topic.cs",
+              "RelativeDocumentMoniker": "UseCase\\Model\\Topic.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Model\\Topic.cs",
+              "RelativeToolTip": "UseCase\\Model\\Topic.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T03:55:25.83Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TopicProgress.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Model\\TopicProgress.cs",
+              "RelativeDocumentMoniker": "UseCase\\Model\\TopicProgress.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Model\\TopicProgress.cs",
+              "RelativeToolTip": "UseCase\\Model\\TopicProgress.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T03:55:02.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CourseController.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Controllers\\CourseController.cs",
+              "RelativeDocumentMoniker": "UseCase\\Controllers\\CourseController.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Controllers\\CourseController.cs",
+              "RelativeToolTip": "UseCase\\Controllers\\CourseController.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAAAGUAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T06:50:41.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "UseCase\\Controllers\\LoginController.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "UseCase\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:54:32.073Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "AdminTable.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Data\\Config\\AdminTable.cs",
+              "RelativeDocumentMoniker": "UseCase\\Data\\Config\\AdminTable.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Data\\Config\\AdminTable.cs",
+              "RelativeToolTip": "UseCase\\Data\\Config\\AdminTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:13:16.778Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Admin.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Model\\Admin.cs",
+              "RelativeDocumentMoniker": "UseCase\\Model\\Admin.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Model\\Admin.cs",
+              "RelativeToolTip": "UseCase\\Model\\Admin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-24T09:11:27.736Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\appsettings.json",
+              "RelativeDocumentMoniker": "UseCase\\appsettings.json",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\appsettings.json",
+              "RelativeToolTip": "UseCase\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-10-30T12:02:06.643Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Program.cs",
+              "RelativeDocumentMoniker": "UseCase\\Program.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Program.cs",
+              "RelativeToolTip": "UseCase\\Program.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAIBJwFEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-30T09:44:00.181Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "StudentTable.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Data\\Config\\StudentTable.cs",
+              "RelativeDocumentMoniker": "UseCase\\Data\\Config\\StudentTable.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Data\\Config\\StudentTable.cs",
+              "RelativeToolTip": "UseCase\\Data\\Config\\StudentTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T09:13:33.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "UseCase\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "UseCase\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAANIAAAAAAAAAAAAUwN8AAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T09:54:32.54Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "EnrollmentTable.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Data\\Config\\EnrollmentTable.cs",
+              "RelativeDocumentMoniker": "UseCase\\Data\\Config\\EnrollmentTable.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Data\\Config\\EnrollmentTable.cs",
+              "RelativeToolTip": "UseCase\\Data\\Config\\EnrollmentTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:37:16.267Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "CourseTable.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Data\\Config\\CourseTable.cs",
+              "RelativeDocumentMoniker": "UseCase\\Data\\Config\\CourseTable.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Data\\Config\\CourseTable.cs",
+              "RelativeToolTip": "UseCase\\Data\\Config\\CourseTable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:34:08.413Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Enrollment.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Model\\Enrollment.cs",
+              "RelativeDocumentMoniker": "UseCase\\Model\\Enrollment.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Model\\Enrollment.cs",
+              "RelativeToolTip": "UseCase\\Model\\Enrollment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T08:32:30.359Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Model\\Course.cs",
+              "RelativeDocumentMoniker": "UseCase\\Model\\Course.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Model\\Course.cs",
+              "RelativeToolTip": "UseCase\\Model\\Course.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwBEAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T07:22:27.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "UseCase\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "UseCase\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T06:32:39.646Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Model\\Student.cs",
+              "RelativeDocumentMoniker": "UseCase\\Model\\Student.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Model\\Student.cs",
+              "RelativeToolTip": "UseCase\\Model\\Student.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAxwBoAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T06:18:14.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "UseCase\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\RahulBilla\\source\\repos\\UseCase\\UseCase\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "UseCase\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAIAAAAAAAAAAAAAswJAAAABqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-27T05:31:55.695Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
